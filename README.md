@@ -1,4 +1,4 @@
-![Chest X-Ray](https://www.surgeryjournal.co.uk/cms/10.1016/j.mpsur.2009.08.006/asset/1787dabd-923a-4e4b-8c86-a149332a37a6/main.assets/gr2.jpg)
+![Chest X-Ray](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_ivEAt4Vuj0jgC7itdZxhzaa6aX1rTGVaw&s)
 
 # 🩺 Pneumonia Detection from Chest X-Rays using Deep Learning
 
